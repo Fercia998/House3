@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Poly&display=swap');
+
+
+@media only screen and (max-width: 600px) {
+    .linear{
+        width: 100%;
+        background: linear-gradient(#00eeff, #19a3ff);
+        height: 200px;
+    }
+
+    h3{
+        color: white;
+        margin-top: 100px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 40px;
+        margin-left: 140px;
+    }
+    .chm{
+        color: white;
+        margin-top: 1px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 40px;
+        margin-left: 100px;
+    }
+    h1{
+        color: black;
+        margin-top: 100px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 30px;
+    }
+    .chambre{
+       margin-left: 25px;
+       margin-top: -5px;
+    }
+
+    .chambre p{
+       font-size: 15px;
+       text-align: justify;
+       padding-right: 15px;
+    }
+
+    .prix{
+       margin-left: 30px;
+    }
+
+    .prix h1{
+        color: black;
+        margin-top: 30px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 30px;
+    }
+
+    .prix p{
+        margin-left: -100px;
+        margin-top: -1px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 20px;
+    }
+
+    .prix .icons{
+        margin-left: -70px;
+        margin-top: -1px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 20px;
+    }
+
+    .icons{
+        display: flex;
+        justify-content: space-around;
+        margin-left: -35px;
+    }
+
+    
+    .mar3{
+        margin-top: 10vw;
+        margin-left: 25vw;
+        background-color: #19A3FF;
+        height: 13vw;
+        width: 47vw;
+        font-size: 30px;
+        position: fixed;
+        border-radius: 10px;
+        color: white;
+       }
+
+    .slide{
+        margin-top: -110px;
+        margin-left: 30px;
+        height: 200px;
+
+      }
+
+    .box-item{
+        width: 440px;
+        height: 200px;
+        margin-left: -55px;
+      }
+
+    .lit h3{
+        margin-left: -2px;
+    }
+    
+    .lit p{
+        margin-left: -2px;
+        padding-right: 20px;
+        text-align: justify;
+    }
+
+    .total {
+        display: flex;
+    }
+    .total p{
+        margin-left: 65px;
+    }
+
+    .total .montant{
+        align-items: center;
+        text-align: center;
+        padding-right: 10px;
+        font-size: 25px;
+        margin-top: 35px;
+        margin-left: 15px;
+        font-weight: bold;
+        padding-right: 10px;
+
+    }
+
+    
+
+    .slide .block{
+        width: 90%;
+        height: 100px;
+        margin: auto;
+        /* height: 100%;
+        display: block;
+        color: white;
+        margin-left: 100px; */
+
+      }
+
+   
+    
+  }
