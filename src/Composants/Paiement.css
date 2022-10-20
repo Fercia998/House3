@@ -16,6 +16,10 @@
     display:flex;
     
   }
+  .grant{
+    height: 100vh;
+    width: 100%;
+  }
  .sol{
   text-decoration: none;
   color: white;
@@ -148,10 +152,11 @@
   position: fixed;
   border-radius: 10px;
   color: white;
+  margin-top: -10vw;
  }
  
  .bigmother{
-  height: 76vh;
+  height: 77vh;
   width: 90%;
   margin-left: 5vw;
   margin-top: -30vw;
@@ -176,7 +181,7 @@
   border-radius: 10px;
   color: grey;
   font-size: 20px;
-  margin-top: 15px;
+  margin-top: 5px;
   border: solid grey 1px;
   outline: none;
 
@@ -184,7 +189,7 @@
  }
 
  .of{
-  padding-top: -10vw;
+  padding-top: -20vw;
  }
  .visa{
   height: 50px;
@@ -195,7 +200,7 @@
  .bas{
   margin-left: -45vw;
   font-size: 20px;
-  margin-top: 5px;
+  margin-top: 3px;
  }
  .bas2{
   margin-left: -69px;
